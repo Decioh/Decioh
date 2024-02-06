@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Decioh
-- I'm a Brazilian computer Engineering student.
+- I'm a Brazilian computer Engineer.
 - I studied Automotive Engineering (UNB) and Civil Engineering (UniCEUB) – incomplete courses – until I found myself in software development.
 - Fluent in English, creative, I work very well in a team and have a lot of desire to learn with practice. 
 
